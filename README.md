@@ -1,2 +1,5 @@
-## TFIDF
-[tfidf](./tfidf.py)
+## BASIC
+
+### feature extract
++ TFIDF
+    [tfidf](./tfidf.py)
